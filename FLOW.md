@@ -58,7 +58,7 @@ OR
 
 ## get_ipv4 ##
 
-When called, returns the current A record for HOSTNAME or HOST + ZONE.
+When called, returns the current A record for HOSTNAME or HOST + ZONE. Allows for comparison with current IP for manual updates via ```update_ipv4```
 
 Parameters:
 
@@ -71,7 +71,7 @@ OR
 
 ## get_ipv6 ##
 
-When called, returns the current AAAA record for HOSTNAME or HOST + ZONE.
+When called, returns the current AAAA record for HOSTNAME or HOST + ZONE. Allows for comparison with current IP for manual updates via ```update_ipv6```
 
 Parameters:
 
