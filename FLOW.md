@@ -34,6 +34,8 @@ OR
  * HOST= [system hostname]: mandatory
  * ZONE= [domain or domains, comma separated]: mandatory
 
+-----------------------
+
  * A= [IP]: optional, the IP to change A to
  * TTL= [TTL in seconds]: optional
 
@@ -52,6 +54,8 @@ OR
 
  * HOST= [system hostname]: mandatory
  * ZONE= [domain or domains, comma separated]: mandatory
+
+-----------------------
 
  * AAAA= [IP]: optional, the IP to change AAAA to
  * TTL= [TTL in seconds]: optional
